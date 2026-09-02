@@ -104,15 +104,20 @@ Server Administration
 
 ## 🧰 Tools & Technologies
 
+## 🧰 Tools & Technologies
+
 <p align="center">
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/GNS3-2C2C2C?style=for-the-badge&logo=gns3&logoColor=white" />
+  <img src="https://img.shields.io/badge/EVE--NG-2C2C2C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/PNETLab-2C2C2C?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
 </p>
+
 
 ---
 

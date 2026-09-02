@@ -116,6 +116,7 @@ Server Administration
   <img src="https://img.shields.io/badge/PNETLab-2C2C2C?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
 </p>
 
 

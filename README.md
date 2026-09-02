@@ -8,15 +8,21 @@
   <img src="https://komarev.com/ghpvc/?username=Abdallannieam&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/Abdallannieam">
+    <img src="https://img.shields.io/badge/GitHub-Abdallannieam-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
 
 I'm a **Network Engineer** focused on designing, configuring, and troubleshooting network infrastructures.
 
-My main areas of expertise include **Cisco Routing & Switching, VLANs, Routing Protocols, Network Services, FortiGate, and Windows Server**.
+My main areas include **Cisco Routing & Switching, VLANs, Routing Protocols, Network Services, FortiGate, and Windows Server**.
 
-I enjoy building practical network labs, troubleshooting complex connectivity issues, and continuously developing my networking skills.
+I enjoy building practical labs, troubleshooting network issues, and developing my networking skills through hands-on experience.
 
 ---
 
@@ -31,49 +37,59 @@ I enjoy building practical network labs, troubleshooting complex connectivity is
 
 ---
 
-## 🌐 Networking
+## 🛠️ Technical Skills
 
-* Routing & Switching
-* VLANs & Trunking
-* Inter-VLAN Routing
-* STP / RSTP
-* EtherChannel
-* Static Routing
-* OSPF
-* EIGRP
-* BGP
-* DHCP / DNS / NAT
-* ACLs
-* IPv4 / IPv6
-* Subnetting
-* Network Troubleshooting
+<table>
+<tr>
 
----
+<td width="33%" valign="top">
 
-## 🔥 Network Security
+<h3>🌐 Networking</h3>
 
-* FortiGate Firewall
-* Firewall Policies
-* NAT & Port Forwarding
-* IPsec / SSL VPN
-* Security Policies
-* Web Filtering
-* Application Control
-* Network Segmentation
-* Access Control
+Routing & Switching • VLANs & Trunking • Inter-VLAN Routing
 
----
+STP / RSTP • EtherChannel • Static Routing
 
-## 🖥️ Windows Server
+OSPF • EIGRP • BGP
 
-* Active Directory
-* Domain Controller
-* DNS & DHCP
-* Group Policy
-* Users & Groups
-* Organizational Units
-* Windows Clients
-* Server Administration
+DHCP • DNS • NAT • ACLs
+
+IPv4 / IPv6 • Subnetting • Network Troubleshooting
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>🔥 Network Security</h3>
+
+FortiGate Firewall • Firewall Policies
+
+NAT & Port Forwarding • IPsec / SSL VPN
+
+Security Policies • Web Filtering
+
+Application Control • Network Segmentation
+
+Access Control • Network Hardening
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>🖥️ Windows Server</h3>
+
+Active Directory • Domain Controller
+
+DNS & DHCP • Group Policy
+
+Users & Groups • Organizational Units
+
+Windows Clients • Server Administration
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -95,13 +111,17 @@ I enjoy building practical network labs, troubleshooting complex connectivity is
 
 ### 🌐 Cisco Enterprise Network Lab
 
-Designed and configured an enterprise network environment using Cisco technologies.
+Designed and configured an enterprise network using Cisco technologies.
+
+**Key Technologies**
 
 `VLANs` • `Trunking` • `Inter-VLAN Routing` • `OSPF` • `EIGRP` • `DHCP` • `ACLs` • `NAT` • `STP` • `EtherChannel`
 
 ### 🔥 FortiGate Network Security Lab
 
-Built a network security lab using FortiGate for firewalling and secure network connectivity.
+Built a network security lab using FortiGate for firewalling and secure connectivity.
+
+**Key Technologies**
 
 `Firewall Policies` • `NAT` • `VLANs` • `IPsec VPN` • `SSL VPN` • `Web Filtering`
 
@@ -109,17 +129,21 @@ Built a network security lab using FortiGate for firewalling and secure network 
 
 Built an enterprise Windows Server environment integrated with network infrastructure.
 
+**Key Technologies**
+
 `Active Directory` • `DNS` • `DHCP` • `Group Policy` • `Users & Groups` • `Windows Clients`
 
 ---
 
 ## 📚 Currently Learning
 
-`Advanced Routing & Switching` • `Network Security` • `Advanced FortiGate` • `Network Automation` • `Python` • `Cloud Networking`
+`Advanced Routing & Switching` • `Network Security` • `Advanced FortiGate`
+
+`Network Automation` • `Python` • `Cloud Networking`
 
 ---
 
-## 🎯 Core Expertise
+## 🎯 Career Goal
 
 **Routing & Switching → Network Infrastructure → Network Security → Automation → Cloud Networking**
 

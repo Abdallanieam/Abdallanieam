@@ -1,61 +1,166 @@
-## Hey 👋, I'm Rahul Jha!
-<a href='https://www.linkedin.com/in/rahul-jha98/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+👋 Hey, I'm Abdullah Naeem!
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Network+%26+Security+Engineer;CCNA+%7C+CCNP+%7C+MCSA+%7C+FortiGate;Cisco+%7C+Fortinet+%7C+Windows+Server;Networking+%26+Cybersecurity+Enthusiast" alt="Typing SVG" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Abdallannieam&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p> <p align="center"> <a href="https://github.com/Abdallannieam"> <img src="https://img.shields.io/badge/GitHub-Abdallannieam-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p>
+🧑‍💻 About Me
+
+Hi, I'm Abdullah Naeem 👋
+
+I'm a passionate Network & Security Engineer interested in designing, implementing, securing, and troubleshooting enterprise network infrastructures.
+
+My technical background includes Cisco Networking, FortiGate Firewalls, Windows Server, Routing & Switching, Network Security, and Cybersecurity fundamentals.
+
+I enjoy building practical labs, troubleshooting network issues, securing infrastructures, and continuously improving my technical skills.
+
+🎓 Certifications & Training
+<p align="center"> <img src="https://img.shields.io/badge/CCNA-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA" /> <img src="https://img.shields.io/badge/CCNP-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNP" /> <img src="https://img.shields.io/badge/MCSA-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="MCSA" /> <img src="https://img.shields.io/badge/FortiGate-Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiGate" /> </p>
+🌐 Networking Skills
+Routing & Switching
+VLANs & Trunking
+Inter-VLAN Routing
+STP / RSTP
+EtherChannel
+DHCP
+DNS
+NAT
+ACLs
+IPv4 / IPv6
+Subnetting
+Static Routing
+OSPF
+EIGRP
+BGP
+Network Troubleshooting
+🔥 Network Security
+FortiGate Firewall
+Firewall Policies
+NAT & Port Forwarding
+Site-to-Site VPN
+IPsec VPN
+SSL VPN
+Security Policies
+UTM / Security Profiles
+Web Filtering
+Application Control
+Network Segmentation
+Access Control
+Traffic Monitoring
+Network Hardening
+🖥️ System Administration
+Windows Server
+Active Directory
+Domain Controller
+Group Policy
+DNS
+DHCP
+Users & Groups
+Organizational Units
+File & Printer Services
+Windows Client Administration
+Server Troubleshooting
+🧰 Tools & Technologies
+<p align="center"> <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" /> <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet" /> <img src="https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="FortiGate" /> <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/GNS3-2C2C2C?style=for-the-badge&logo=gns3&logoColor=white" alt="GNS3" /> <img src="https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer" /> <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" /> </p>
+🔬 My Technical Focus
+                    NETWORK & SECURITY
+                           │
+          ┌────────────────┼────────────────┐
+          │                │                │
+       NETWORK          SECURITY          SYSTEMS
+          │                │                │
+    ┌─────┴─────┐    ┌─────┴─────┐    ┌─────┴─────┐
+    │           │    │           │    │           │
+ Routing    Switching Firewall    VPN  Windows   Active
+    │           │    │           │    Server   Directory
+    │           │    │           │
+  OSPF        VLANs FortiGate   IPsec
+  EIGRP       STP   Policies    SSL VPN
+  BGP         ACL   NAT         Access Control
+
+🚀 Projects & Labs
+🔥 FortiGate Security Lab
+
+A practical network security lab focused on designing and securing network infrastructure using FortiGate.
+
+Technologies & Concepts:
+
+Firewall Policies
+NAT
+VLAN Segmentation
+IPsec VPN
+SSL VPN
+Security Policies
+Web Filtering
+Application Control
+Traffic Monitoring
+Network Access Control
+🌐 Cisco Enterprise Network Lab
+
+Designed and configured an enterprise network environment using Cisco networking technologies.
+
+Technologies & Concepts:
+
+VLANs
+Trunking
+Inter-VLAN Routing
+OSPF
+EIGRP
+DHCP
+ACLs
+NAT
+STP
+EtherChannel
+Network Troubleshooting
+🖥️ Windows Server Lab
+
+Built a Windows Server environment for practicing enterprise system administration.
+
+Technologies & Concepts:
+
+Active Directory
+Domain Controller
+DNS
+DHCP
+Organizational Units
+Group Policy
+Users & Groups
+Windows Clients
+Server Administration
+📚 Currently Learning
+Advanced Network Security
+Advanced FortiGate
+Advanced Routing & Switching
+Cybersecurity
+Cloud Networking
+Network Automation
+Python for Network Automation
+🎯 Career Goals
+
+My goal is to continuously grow as a Network & Security Engineer and build strong expertise in:
+
+Networking
+    ↓
+Network Security
+    ↓
+Cybersecurity
+    ↓
+Network Automation
+    ↓
+Cloud Networking
+    ↓
+Cloud Security
 
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-<br/>
-<br/>
+I'm always interested in learning new technologies, building practical labs, and working on real-world networking and security challenges.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  
-### 🧐 More About Me:
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abdallannieam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> </p>
+🔥 GitHub Streak
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdallannieam&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
+📈 Most Used Languages
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallannieam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p>
+🤝 Let's Connect
+<p align="center"> <a href="https://github.com/Abdallannieam"> <img src="https://img.shields.io/badge/GitHub-Abdallannieam-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p>
+<p align="center">
+🌐 Network & Security Engineer
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+Networking • Network Security • FortiGate • Cisco • Windows Server • Cybersecurity
 
-<br>
-
-### 🔨 Languages and Tools:
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
-
-<br>
-
-
-### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
-
-</a>
-
-<br>
-
-### 🛠️ My Projects
-<a href="https://rahul-jha98.github.io/Artistify.ai/" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://rahul-jha98.github.io/sheets-database/" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://thepasswordkeeper.netlify.app/" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
-<a href="https://wavelengths.netlify.app/" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
+</p> <p align="center"> <i>"Keep learning. Keep building. Keep securing."</i> 🔐 </p>

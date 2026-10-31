@@ -27,7 +27,8 @@ I enjoy building practical labs, troubleshooting network issues, and developing 
   <img src="https://img.shields.io/badge/CCNP-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/MCSA-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/FortiGate-Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/AZ--900-Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AZ--900-Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /><img src="https://img.shields.io/badge/Mobile-Package-0078D4?style=for-the-badge&logo=flutter&logoColor=white" />
+  
 <img src="https://img.shields.io/badge/HCIA%20Security-Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white" />
 
 ---

@@ -50,7 +50,7 @@ STP / RSTP
 EtherChannel
 Static Routing
 
-OSPF • EIGRP • BGP
+OSPF • EIGRP • BGP • MPLS
 
 DHCP • DNS • NAT
 ACLs
